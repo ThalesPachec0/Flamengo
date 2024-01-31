@@ -34,12 +34,11 @@ body {
 }
 
 header {
-
 text-align: center;
-background-image: linear-gradient(to bottom,rgb(248, 25,25), rgb(0, 0, 0), black);
+background-image: linear-gradient(to bottom, black, red, red);
 padding-bottom: 15px;
 padding-top: 40px;
-height: 128px;
+height: 120px;
 box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.404);
 }
 
@@ -61,7 +60,7 @@ header nav {
 }
 
 header > nav > a {
-    padding: 15px;
+    padding: 5px;
     text-decoration: none;
     color: white;
     font-weight: bolder;
